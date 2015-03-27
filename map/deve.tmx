@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="12" height="12" tilewidth="50" tileheight="50">
+ <tileset firstgid="1" name="hinh" tilewidth="50" tileheight="50">
+  <image source="../img/hinh.png" width="250" height="50"/>
+ </tileset>
+ <tileset firstgid="6" name="nen" tilewidth="600" tileheight="600">
+  <image source="../img/nen.png" width="600" height="600"/>
+ </tileset>
+ <layer name="Tile Layer 2" width="12" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFowAB2EhUDwADYAAH
+  </data>
+ </layer>
+ <layer name="Tile Layer 1" width="12" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjZGBgYBzFo5hMDAClYACR
+  </data>
+ </layer>
+</map>
